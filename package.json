@@ -1,0 +1,19 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Blank starter web package",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangfarih/webpack-starter.git"
+  },
+  "author": "Farih Muhammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kangfarih/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/kangfarih/webpack-starter#readme"
+}
